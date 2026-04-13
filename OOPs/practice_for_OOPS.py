@@ -19,4 +19,3 @@ Account1= Account(1500,14587984654)
 Account1.debit(500)
 Account1.credit(1500)
 Account1.balance1()
-    
